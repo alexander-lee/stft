@@ -1,6 +1,6 @@
 {
-  "name": "stft",
-  "version": "0.0.0",
+  "name": "@alexanderlee/stft",
+  "version": "1.0.0",
   "description": "Short time Fourier transform",
   "main": "stft.js",
   "directories": {
